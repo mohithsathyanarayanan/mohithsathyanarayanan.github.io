@@ -1,12 +1,11 @@
-## Welcome to GitHub Pages
+## Climate change’s nasty consequences, and few solutions
 
-You can use the [editor on GitHub](https://github.com/mohithsathyanarayanan/mohithsathyanarayanan.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+Hey there, Hope you are doing good. I am Mohith Sathyanarayanan. I am pursuing masters in computer science. This is my blog on climate change and how society as a whole could work to reverse it.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Introduction
+Climate change includes both global warmings driven by human-induced emissions of greenhouse gases and the resulting large-scale shifts in weather patterns. Though there have been previous periods of climatic change since the mid-20th century humans have had an unprecedented impact on Earth’s climate system and caused change on a global scale.
+This can mainly be attributed to the fact that Human settlements have constantly evolved from a simple collection of shacks to an increasingly power-hungry metropolis, which in the long turn were not sustainable.
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
 ```markdown
 Syntax highlighted code block
