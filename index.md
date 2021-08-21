@@ -1,3 +1,5 @@
+### Climate change’s nasty consequences, and few solutions
+
 ### About
 
 Hey there, Hope you are doing good. I am Mohith Sathyanarayanan. I am pursuing masters in computer science.This is my blog on climate change and how society as a whole could work to reverse it.
@@ -26,3 +28,11 @@ This, in turn, has led to many adverse changes in the climate, some of them bein
     
    4) Plastic is made from oil, and the process of extracting, refining and turning oil into plastic (or even polyester, for clothing) is surprisingly carbon-intense. It doesn’t break down quickly in nature so a lot of plastic is burned, which contributes to emissions. Demand for plastic is rising so quickly that creating and disposing of plastics will account for 17% of the global carbon budget by 2050 (this is the emissions count we need to stay within according to the Paris agreement).
 
+### Conclusion
+
+Managing the climate crisis is ery important for us. Moreover Mitigating this challange and passing on a habitatable Earth to future generations is the resposibitlity of everyone of us. for this to happen it is vital that there is contribution from every section of society. Hopefully we can start changing things around so that all may breathe,live and smile. 
+
+### Acknowledgements
+1) https://www.greenpeace.org.uk/
+2) https://en.wikipedia.org/wiki/Climate_change
+3) https://www.worldwildlife.org/threats/effects-of-climate-change
