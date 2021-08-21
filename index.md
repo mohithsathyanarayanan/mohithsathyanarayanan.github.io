@@ -1,38 +1,23 @@
-### Climate change’s nasty consequences, and few solutions
-
 ### About
 
-Hey there, Hope you are doing good. I am Mohith Sathyanarayanan. I am pursuing masters in computer science.This is my blog on climate change and how society as a whole could work to reverse it.
+Hey there, Hope you are doing good. I am Mohith Sathyanarayanan. I am pursuing masters in computer science.This is my blog on the application of technology in finance and recent developments in it.
 
 ### Introduction
-Climate change includes both global warmings driven by human-induced emissions of greenhouse gases and the resulting large-scale shifts in weather patterns. Though there have been previous periods of climatic change since the mid-20th century humans have had an unprecedented impact on Earth’s climate system and caused change on a global scale.
-
-This can mainly be attributed to the fact that Human settlements have constantly evolved from a simple collection of shacks to an increasingly power-hungry metropolis, which in the long turn were not sustainable.
+Financial technology (Fintech) is used to describe new tech that seeks to improve and automate the delivery and use of financial services.At its core, fintech is utilized to help companies, business owners and consumers better manage their financial operations, processes, and lives by utilizing specialized software and algorithms that are used on computers and, increasingly, smartphones. Fintech, the word, is a combination of "financial technology".  
 
 
-### Effects of climate change
+### fintech in practise
 
-since the start of the industrial revolution, we have seen an ever-growing rate of greenhouse gases emissions, which causes the temperatures around the globe to raise. 
+The most talked-about (and most funded) fintech startups share the same characteristic: they are designed to be a threat to, challenge, and eventually usurp entrenched traditional financial services providers by being more nimble, serving an underserved segment or providing faster and/or better service. 
 
-This, in turn, has led to many adverse changes in the climate, some of them being shrinking polar ice caps, increasing the number of floods and typhoons, acid rains.
+For example, Affirm seeks to cut credit card companies out of the online shopping process by offering a way for consumers to secure immediate, short-term loans for purchases. While rates can be high, Affirm claims to offer a way for consumers with poor or no credit a way to both secure credits and also build their credit histories. Similarly, Better Mortgage seeks to streamline the home mortgage process (and obviate traditional mortgage brokers) with a digital-only offering that can reward users with a verified pre-approval letter within 24 hours of applying. GreenSky seeks to link home improvement borrowers with banks by helping consumers avoid entrenched lenders and save on interest by offering zero-interest promotional periods. 
 
-### Solutions
+### Fintech's Expanding Horizons
+ Up until now, financial services institutions offered a variety of services under a single umbrella. The scope of these services encompassed a broad range from traditional banking activities to mortgage and trading services. In its most basic form, Fintech unbundles these services into individual offerings. The combination of streamlined offerings with technology enables fintech companies to be more efficient and cut down on costs associated with each transaction.
 
-  The main ways to stop climate change are to pressure government and business to:
-
-  1) Keep fossil fuels in the ground. Fossil fuels include coal, oil and gas – and the more that are extracted and burned, the worse climate change will get. All countries need to move their economies away from fossil fuels as soon as possible.
-
-  2) Invest in renewable energy. Changing our main energy sources to clean and renewable energy is the best way to stop using fossil fuels. These include technologies like solar, wind, wave, tidal and geothermal power.
-  
-  3) Switch to sustainable transport. Petrol and diesel vehicles, planes and ships use fossil fuels. Reducing car use, switching to electric vehicles and minimising plane travel will not only help stop climate change, it will reduce air pollution too.
-    
-   4) Plastic is made from oil, and the process of extracting, refining and turning oil into plastic (or even polyester, for clothing) is surprisingly carbon-intense. It doesn’t break down quickly in nature so a lot of plastic is burned, which contributes to emissions. Demand for plastic is rising so quickly that creating and disposing of plastics will account for 17% of the global carbon budget by 2050 (this is the emissions count we need to stay within according to the Paris agreement).
-
-### Conclusion
-
-Managing the climate crisis is ery important for us. Moreover Mitigating this challange and passing on a habitatable Earth to future generations is the resposibitlity of everyone of us. for this to happen it is vital that there is contribution from every section of society. Hopefully we can start changing things around so that all may breathe,live and smile. 
+New technologies, like machine learning/artificial intelligence, predictive behavioral analytics, and data-driven marketing, will take the guesswork and habit out of financial decisions. "Learning" apps will not only learn the habits of users, often hidden to themselves, but will engage users in learning games to make their automatic, unconscious spending and saving decisions better. Fintech is also a keen adaptor of automated customer service technology, utilizing chatbots to and AI interfaces to assist customers with basic task and also keep down staffing costs. Fintech is also being leveraged to fight fraud by leveraging information about payment history to flag transactions that are outside the norm. 
 
 ### Acknowledgements
-1) https://www.greenpeace.org.uk/
-2) https://en.wikipedia.org/wiki/Climate_change
-3) https://www.worldwildlife.org/threats/effects-of-climate-change
+1) https://en.wikipedia.org/wiki/Financial_technology
+2) https://www.thestreet.com/technology/what-is-fintech-14885154
+
