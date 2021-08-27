@@ -1,8 +1,7 @@
 ### Climate change’s nasty consequences, and few solutions
 
-### About
-
-Hey there, Hope you are doing good. I am Mohith Sathyanarayanan. I am pursuing masters in computer science.This is my blog on climate change and how society as a whole could work to reverse it.
+### About me
+Hey there, Hope you are doing good. I am Mohith Sathyanarayanan. I am pursuing masters in computer science from IIIT-Bangalore. I am very passionate about using technolgy in finance, i have done a internship under professor  C.jagadish Reddy of Hyderabad School of Buisness on the application of Data Science to Portfolio analysis. I have also been a part of the app development team of UpConnectMe a social media startup. When not busy with assignments and academics i am usually reading novels(my present one being "Alchemist") or playing my keyboard. I have also been a part of greenpeace during my schooling years.Here I would like to talk about climate change and a few solutions I had in my mind.
 
 ### Introduction
 Climate change includes both global warmings driven by human-induced emissions of greenhouse gases and the resulting large-scale shifts in weather patterns. Though there have been previous periods of climatic change since the mid-20th century humans have had an unprecedented impact on Earth’s climate system and caused change on a global scale.
